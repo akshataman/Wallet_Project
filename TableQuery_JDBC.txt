@@ -1,0 +1,6 @@
+create table account (id number(3), mobileno number(10) primary key,accholdername varchar(15), balance number(10));
+
+
+JPA:
+
+walletproject_table
